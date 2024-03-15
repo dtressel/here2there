@@ -2,7 +2,7 @@
   "name": "here2there",
   "version": "1.0.0",
   "description": "An animation package that moves a DOM element from one location to another",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist",
     "prepublishOnly": "npm run build",
