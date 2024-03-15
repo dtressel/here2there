@@ -1,0 +1,26 @@
+{
+  "name": "here2there",
+  "version": "1.0.0",
+  "description": "An animation package that moves a DOM element from one location to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "animation",
+    "component",
+    "npm"
+  ],
+  "author": "Daniel Tressel",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">= 16.0.0",
+    "react-dom": ">= 16.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.23.3"
+  }
+}
