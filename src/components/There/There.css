@@ -1,0 +1,8 @@
+.There-outer {
+  position: relative;
+  overflow: hidden;
+}
+
+.There-inner {
+  position: absolute;
+}
